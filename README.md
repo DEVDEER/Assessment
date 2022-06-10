@@ -6,9 +6,10 @@ Do not hesitate to ask questions at any time!
 
 You can pick any one of the following tasks:
 
-| Title | Technology | Description
-|--- |--- |---
-| [Backend API](backend-api.md) | HTTP, JSON | Create a Rest API using any technology you like to provide 3 HTTP methods.
+| Title | 🧨Pre-Reqs. | Technology | Description
+|--- |--- |--- |---
+| [Backend API](backend-api.md) | - | HTTP, JSON | Create a Rest API using any technology you like to provide 3 HTTP methods.
+| [Backend Azure](backend-azure.md) | [BACKEND API](backend-api.md) | SDK, Azure, Azure Table Storage | Extend the REST API from the Backend API to store data in Azure Table Storage instead of in-memory storage.
 
 If you are so fast that you can do more than 1 task feel free to try it 🔥.
 

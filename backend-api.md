@@ -1,10 +1,12 @@
+[← Back](readme.md)
+
 # Backend API
 
-## Prerequisites
+## ⚠️ Prerequisites
 
 None.
 
-## Technologies
+## ⚙️ Technologies
 
 You can use any technology to build REST APIs you are comfortable with. Preferred would be to use:
 
@@ -14,7 +16,7 @@ You can use any technology to build REST APIs you are comfortable with. Preferre
 
 If you plan to also work on the [Azure Backend Connect](backend-azure.md), please choose technologies for that an Azure Table Storage SDK exists.
 
-## Task
+## 🏋️‍♀️ Task
 
 Imagine that you and your team are creating a new app for managing a shopping list. Each item is presented by a simple text which is the title.
 
@@ -26,14 +28,14 @@ The goal is to create an API that offers endpoints to manipulate a simple array 
 
 We want to use JSON as the format of data flowing in and out of the API.
 
-## Steps
+## 🏃‍♀️ Steps
 
 - Create a simple REST API project
 - Configure a graphical API documentation (for example using “Swagger UI”)
 - Implement the needed HTTP endpoints
 - Test out the API
 
-## How can you wow us?
+## 🤩 How can you wow us?
 
 - Ensure that all methods are using the correct HTTP methods.
 - Take care about the documentation of the API.

@@ -1,17 +1,19 @@
+[← Back](readme.md)
+
 # Azure-Backend Connect
 
 This is an additional task for the [Backend API](backend-api.md) task!
 
-## Prerequisites
+## ⚠️ Prerequisites
 
 - You have finished [Backend API](backend-api.md).
 
-## Technologies
+## ⚙️ Technologies
 
 - Azure Table Storage
 - Your chosen REST API technologies
 
-## Task
+## 🏋️‍♀️ Task
 
 The goal is to persist the currently in memory stored array of strings. For that, a Azure Table Storage shall be used. That means:
 

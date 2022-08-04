@@ -19,6 +19,14 @@ If you are so fast that you can do more than 1 task feel free to try it 🔥.
 
 Read the information in the link of the task you choose. Follow the instructions there. You've got 90 minutes overall time to finish the task.
 
+## 📈 Presentation
+
+Please prepare yourself for a short presentation (10 min.) at the end of the day. The main topics are:
+
+- Highlights
+- What went good?
+- What would you improve with more time?
+
 ## 🔗 Links
 
 - [UI Mockup](https://www.figma.com/file/z88cvSEgBbHvQPHdXpuuLo/Azubi-%7C-Shopping-List?node-id=0%3A1)
